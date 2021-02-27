@@ -1,0 +1,24 @@
+.Entete {
+    position: sticky;
+    top: 0;
+    height: 60px;
+    margin: -8px;
+    margin-bottom: 18px;
+    color: white;
+    background-color: rgb(48, 48, 48);
+    display: flex;
+    align-items: center;
+    z-index: 10;
+    justify-content: space-between;
+
+    div.logo {
+        padding-left: 5px;
+    }
+
+    div.avatar {
+        display: flex;
+        align-items: center;
+        float: right;
+        padding-right: 10px;
+    }
+}

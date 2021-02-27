@@ -1,0 +1,11 @@
+.ListeDossiers {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 0;
+
+    .Dossier {
+        margin: 10px;
+    }
+}

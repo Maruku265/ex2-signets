@@ -1,3 +1,4 @@
+import './ListeDossiers.scss';
 import dossTab from '../data/liste-dossiers.json';
 import Dossier from './Dossier';
 
